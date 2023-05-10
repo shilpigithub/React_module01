@@ -1,0 +1,9 @@
+In Terminal 1:
+npm run watch
+
+In Terminal 2:
+npm start
+
+
+In browser:
+http://localhost:5000/
